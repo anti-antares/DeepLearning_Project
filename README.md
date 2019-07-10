@@ -1,8 +1,6 @@
 # DL_MIMIC
 11785 course project
 
-To run this model, you must have a GPU.
-
 The data pipline:
 ![pipeline_v1](https://user-images.githubusercontent.com/14221210/54965012-1f6bb180-4f45-11e9-9f03-21d082eeb5f4.jpg)
 The embedding model:
